@@ -12,6 +12,7 @@ A command-line Python application for tracking gym workouts. Users can log exerc
 - JSON for data storage
 
 **Overview**
+
 This project was developed to strengthen core programming concepts, including file handling, data structures, and user input management. It demonstrates the ability to build a structured, interactive CLI application with persistent data.
 
 **Future Improvements**
